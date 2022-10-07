@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="jstl">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../03_javaSE-Web/002-jQuery/03-资料/jstl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../03_javaSE-Web/002-jQuery/03-资料/standard.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
